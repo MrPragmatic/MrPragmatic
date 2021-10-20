@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MrPragmatic
+- 👀 I’m interested in AI, IoT and generally learning new ways to solve problems.
+- 🌱 I’m currently learning computing.
+- 💞️ I’m looking to collaborate on Github, Linkedin and social media.
+- 📫 You can easily connect with me by sending a message in Linkedin: https://www.linkedin.com/in/michael-greed/
